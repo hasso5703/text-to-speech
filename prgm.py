@@ -1,5 +1,220 @@
 texte = [
 """
+*carrot* n. A1 
+I peeled carrots for the salad.
+J'ai épluché des carottes pour la salade.
+""",
+"""
+*carry* v. A1 
+The train that was carrying the goods left yesterday.
+Le train qui transportait les marchandises est parti hier.
+Donkeys can carry very heavy burdens.
+Les ânes peuvent transporter des fardeaux très lourds.
+The father carries his daughter on his shoulders.
+Le père porte sa fille sur ses épaules.
+The soldier carried a rifle.
+Le soldat portait un fusil.
+""",
+"""
+*cartoon* n. A2 
+My children love watching cartoons.
+Mes enfants aiment regarder les dessins animés.
+""",
+"""
+*case* n. A2 
+An umbrella is convenient in case of rain.
+Un parapluie est utile en cas de pluie.
+I will take an umbrella, just in case.
+Je vais prendre un parapluie, au cas où.
+The judge declared the case closed.
+Le juge a déclaré l'affaire classée.
+The testimony of the witness decided the case.
+La preuve du témoin a tranché l'affaire.
+My watch has a flat case and a leather strap.
+Ma montre a un boîtier plat et un bracelet en cuir.
+My phone's case is made of real leather.
+L'étui de mon téléphone est en cuir véritable.
+The phone fits perfectly into the case.
+Le téléphone tient parfaitement dans l'étui.
+""",
+"""
+*cash* n. A2 
+The supermarket only accepts cash.
+Le supermarché n'accepte que les espèces.
+Customers can pay in cash or by debit card.
+Les clients peuvent payer en espèces ou par carte de débit.
+I did not have any cash, so I paid by credit card.
+Je n'avais pas de cash, alors j'ai payé par carte de crédit.
+The cash he received for his invention is a windfall.
+L'argent qu'il a reçu pour son invention est une aubaine.
+The cash value of my car remained stable.
+La valeur monétaire de ma voiture est restée stable.
+The bank agreed to cash his cheque.
+La banque a accepté d'encaisser son chèque.
+""",
+"""
+*cast* n., v. B2 
+The statue was cast in bronze.
+La statue a été moulée en bronze.
+I made a cast of the footprint to preserve it.
+J'ai fait un moulage de l'empreinte pour la conserver.
+Two famous actors are part of the play's cast.
+Deux acteurs connus font partie de la distribution de la pièce.
+My friends signed the cast on my arm.
+Mes amis ont signé le plâtre sur mon bras.
+The witch cast a spell on him.
+La sorcière lui a jeté un sort.
+The boats can cast anchor in the harbour.
+Les bateaux peuvent jeter l'ancre dans le port.
+The witch cast a spell on him.
+La sorcière lui a lancé un sort.
+The fisherman baited his hook and cast his line.
+Le pêcheur a appâté son hameçon et lancé sa ligne.
+The worker casts molten metal into the form.
+L'ouvrier coule du métal en fusion dans le moule.
+The statue was cast in bronze.
+La statue a été moulée en bronze.
+""",
+"""
+*cat* n. A1 
+We have always had a cat as a pet.
+Nous avons toujours eu un chat comme animal de compagnie.
+The cat chased the mouse.
+Le chat a poursuivi la souris.
+Our cat had a litter of four kittens.
+Notre chatte a eu une portée de quatre chatons.
+""",
+"""
+*catch* v. A2, n. B2 
+One player throws the ball and the other player catches it.
+Un joueur lance la balle et l'autre joueur l'attrape.
+The police caught the thief.
+La police a attrapé le voleur.
+My dad likes to brag when he catches a big fish.
+Mon papa aime se vanter quand il attrape un gros poisson.
+They caught the last train.
+Il ont pris le dernier train.
+The camera caught images of the suspect at the scene of the crime.
+La caméra a capté des images du suspect sur le lieu de crime.
+The police officer caught the robber by the collar.
+Le policier a saisi le cambrioleur par le col.
+The police caught the thief after a quick investigation.
+La police a arrêté le voleur après une enquête rapide.
+The police caught the thief in the restaurant.
+La police a coincé le voleur dans le restaurant.
+The fisherman is proud of his catch.
+Le pêcheur est fier de sa prise.
+""",
+"""
+*category* n. B1 
+Products are classified by category on our website.
+Les produits sont classés par catégorie sur notre site web.
+The budget is divided into categories of expenses.
+Le budget est divisé en rubriques de dépenses.
+""",
+"""
+*cause* n., v. A2 
+I signed a petition to defend a good cause.
+J'ai signé une pétition pour défendre une bonne cause.
+The donations were used for charitable causes.
+Les dons ont été utilisés pour des causes de bienfaisance.
+All is well, there is no cause for concern.
+Tout va bien, il n'y a pas de motif d'inquiétude.
+Too little sleep can be a cause for stress.
+Le manque de sommeil peut être un facteur de stress.
+The heavy rainfall caused a flood.
+Les grosses précipitations ont causé une inondation.
+The political crisis caused turmoil in the country.
+La crise politique a provoqué la tourmente dans le pays.
+The storm caused a power outage.
+La tempête a provoqué une panne d'électricité.
+The drop in price caused an increase in sales.
+La baisse du prix a entraîné une augmentation des ventes.
+The rain caused a sudden drop in temperature.
+La pluie a entraîné une chute brutale de la température.
+The rain caused a traffic jam this morning.
+La pluie a occasionné un bouchon ce matin.
+The president's speech caused a series of protests.
+Le discours du président a suscité une série de protestations.
+""",
+"""
+*CD* n. A1 
+I always listen to a CD when I drive.
+J'écoute toujours un CD quand je conduis.
+The CD of the band's latest album has ten tracks.
+Le CD du dernier album du groupe contient dix pistes.
+""",
+"""
+*ceiling* n. B1 
+The chandelier hangs from the ceiling.
+Le lustre pend du plafond.
+The middle pillar supports the ceiling.
+Le pilier central supporte le plafond.
+""",
+"""
+*celebrate* v. A2 
+The Assumption is celebrated on August 15.
+L'Assomption est célébrée le 15 août.
+My university celebrated its hundredth anniversary.
+Mon université a célébré son centième anniversaire.
+People generally celebrate their birthday.
+En général, les gens fêtent leur anniversaire.
+I will throw a party to celebrate my return home.
+J'organiserai une fête pour célébrer mon retour à la maison.
+After the match, the coach celebrated with the team.
+Après le match, le coach a fait la fête avec l'équipe.
+The city celebrated the anniversary of its founding.
+La ville a commémoré l'anniversaire de sa fondation.
+The mayor celebrated the courage of the firefighters in his speech.
+Le maire a salué le courage des pompiers dans son discours.
+""",
+"""
+*celebration* n. B1 
+Priests wear a cope during big religious celebrations.
+Les prêtres portent une chape pour les grandes célébrations religieuses.
+""",
+"""
+*celebrity* n. A2 
+A great number of celebrities use social media.
+De nombreuses célébrités utilisent les médias sociaux.
+This celebrity is known for her outrageous outfits.
+Cette célébrité est connue pour ses tenues scandaleuses.
+""",
+"""
+*cell* n. A2
+The prisoner was taken back to his cell.
+Le prisonnier a été ramené à sa cellule.
+A load cell is a measuring instrument.
+Une cellule de charge est un instrument de mesure.
+A solar cell can convert sunlight into electricity.
+Un capteur solaire peut convertir la lumière du soleil en électricité.
+I received a call on my cell.
+J'ai reçu un appel sur mon portable.
+""",
+"""
+*cent* n. A1 
+At best, the economy will grow by one per cent.
+Au mieux, la croissance économique sera de un pour cent.
+""",
+"""
+*center* n. A1, v. B1 
+The archer aims at the center of the target.
+L'archer vise le centre de la cible.
+A photographer is teaching me how to center my pictures.
+Un photographe m'apprend comment cadrer mes photos.
+""",
+"""
+*central* adj. B1 
+I am renting an apartment near a central avenue.
+Je loue un appartement près d'une avenue centrale.
+Slovakia is located in Central Europe.
+La Slovaquie se situe en Europe centrale.
+Friendship is a central theme in the book.
+L'amitié est un thème clé du livre.
+The company is central to the local economy.
+L'entreprise est indispensable pour l'économie locale.
+""",
+"""
 *century* n. A2 
 The castle has changed very little over the centuries.
 Le château a très peu changé au fil des siècles.
